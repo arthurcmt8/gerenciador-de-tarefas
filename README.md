@@ -1,30 +1,30 @@
-# 📋 Task Manager
+# Gerenciador de Tarefas
 
-A simple command-line task manager built with Python.
+Uma linha de comando simples sobre um Gerenciadr de Tarefas baseado em Python.
 
-## Features
+## Utilidades
 
-- Add tasks
-- List all tasks
-- Mark tasks as completed
-- Remove tasks
-- Save tasks in a JSON file
+- Adicionar tarefas
+- Listar todas as tarefas
+- Marcar tarefas como completas
+- Remover tarefas
+- Salvar tarefas em um arquivo JSON
 
-## Technologies
+## Tecnologias
 
 - Python 3
 - JSON
 
-## How to Run
+## Como iniciar
 
-1. Clone the repository.
-2. Open the project folder.
-3. Run:
+1. Clone o repositório.
+2. Abra a pasta do projeto.
+3. Inicie:
 
 ```bash
 python main.py
 ```
 
-## Author
+## Autor:
 
 Arthur Cavalcante
